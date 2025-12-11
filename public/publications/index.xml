@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | </title>
+    <link>http://localhost:1313/publications/</link>
+      <atom:link href="http://localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_9f07e0d114391fde.png</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
+    </image>
+    
+    <item>
+      <title>Platformed Mainstreaming: How and for What Does the Online Far Right Use Hyperlinks?</title>
+      <link>http://localhost:1313/publications/keskekci_sponholz/</link>
+      <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/keskekci_sponholz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defend Europe and Transnational Activism</title>
+      <link>http://localhost:1313/publications/keskekci_nissen/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/keskekci_nissen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

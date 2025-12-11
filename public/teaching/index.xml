@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching | </title>
+    <link>http://localhost:1313/teaching/</link>
+      <atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teaching</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_9f07e0d114391fde.png</url>
+      <title>Teaching</title>
+      <link>http://localhost:1313/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Dynamics Of Far-Right Mobilization in Western Europe</title>
+      <link>http://localhost:1313/teaching/seminars/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/seminars/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
